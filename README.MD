@@ -1,7 +1,6 @@
 Com base nas intruções abaixo referidas foi executada a atividade.
 Primeiro foi criado um texto no word com  ajuda do Chatgpd;
-Depois foi colocada uma voz para criar um Podcast com uso de https://app.speechify.com/?page=1
-
+Depois foi criada uma imagem no copilot
 
 <p align="center">
     <img width="100" src=".github/assets/banner.png">
